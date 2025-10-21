@@ -5,7 +5,12 @@ Created in Houdini, shaded and rendered with Karma.
 # Modeling
 
 Apologies for terrible video compression
-https://github.com/user-attachments/assets/a9d10a60-34c1-4c3a-ad14-bfec05c547de
+
+
+
+
+
+https://github.com/user-attachments/assets/93656fe5-94d3-4607-a982-71efdca623aa
 
 
 
