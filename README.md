@@ -1,28 +1,35 @@
 # Procedural Jellyfish
 Created in Houdini, shaded and rendered with Karma.
+![Still_Render](./demos/Still_Render.jpg)
 
 # Modeling
 
-![Still_Render](./demos/Still_Render.jpg)
+Apologies for terrible video compression
+https://github.com/user-attachments/assets/a9d10a60-34c1-4c3a-ad14-bfec05c547de
 
-INSERT VIDEO HERE
+
+
 
 ## Bell
 
 ### Procedurally animated using CHOPs 
 1 function responsible for a constant y translation, then added to a sharped sin function to create the upward motion. For the bell shape animation, I used the same function for translation but with different range.
 
-INSERT VIDEO HERE
+https://github.com/user-attachments/assets/859edec7-ef20-4286-bb7c-d498c13c96ff
+
+
 
 ## Arms
 Used a for each loop for each arm so that I can use the iteration number to drive some parameters of armms to make it more random.
 Then I spent 200 frames to preprosses and move the tentacles closer together
 
-INSERT VIDEO HERE
+https://github.com/user-attachments/assets/babf3033-6ca2-45a1-b4cb-2b8f1151413c
+
 
 ## Veins
 
-INSERT VIDEO HERE
+https://github.com/user-attachments/assets/8e34520a-8664-4158-a9fc-57e2afc2b7af
+
 
 ## Organs
 curve -> displace with noise -> sweep
